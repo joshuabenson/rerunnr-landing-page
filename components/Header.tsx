@@ -10,13 +10,13 @@ const Header = () => {
       <nav>
         <ul className="flex sm:mt-0 mt-4 items-center lg:gap-7 gap-3 font-medium text-base sm:text-lg">
           <li className="text-black">
-            <Link href={config.socials.twitter} passHref legacyBehavior>
+            <Link href={config.socials.bluesky} passHref legacyBehavior>
               <a
                 className="px-5 py-2 rounded"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                Bluesky
               </a>
             </Link>
           </li>
