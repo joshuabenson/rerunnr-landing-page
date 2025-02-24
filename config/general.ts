@@ -2,7 +2,7 @@ const config = {
     domain: "rerunnr.com",
     title: "Waitlist | Rerunnr - Your Comeback Story",
     description: "Ready to start or restart your running journey? Rerunnr creates personalized training plans that adapt to your goals and experience. Join the waitlist for early access!",
-    subscribeForm: "https://dashboard.mailerlite.com/forms/631411/101265918935434456/share",
+    subscribeForm: "https://assets.mailerlite.com/jsonp/1351393/forms/147245434034718025/subscribe",
 
     socials: {
         bluesky: "https://bsky.app/profile/dreammccain.bsky.social",
@@ -10,10 +10,10 @@ const config = {
 
     contents: {
         title: "re-start your running journey with rerunnr",
-        markOfTitle: "Rerunnr",
+        markOfTitle: "rerunnr",
         description: `Whether you're lacing up for the first time or making a comeback, 
-        Rerunnr is your personal running coach. Get customized training plans that adapt 
-        to your pace, goals, and lifestyle - from couch to 5K to marathon dreams.`,
+        rerunnr is your personal coach for your return to running. Get customized training plans that adapt 
+        to your circumstances. Injury, illness, or just had a long break? We've got you.`,
 
         about: [
             {
