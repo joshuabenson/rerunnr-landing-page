@@ -66,12 +66,14 @@ const config = {
             earlyBirdTotal: 50,
             earlyBirdRemaining: 39,
             advantages: [
+                'Lock in a lifetime early bird price',
+                'Projected launch May 2025',
                 'Personalized training plans',
                 'Smart plan adjustments based on your progress',
-                'Access to beginner-friendly to advanced programs',
+                'Access to beginner-friendly or advanced programs',
                 'Marathon training capabilities',
                 'Progress tracking and analytics',
-                'Lifetime early adopter status'
+                'Early adopters get access to beta features early through Rerunnr Labs '
             ]
         },
 
