@@ -1,6 +1,6 @@
 const config = {
     domain: "rerunnr.com",
-    title: "Waitlist | Rerunnr - Your Comeback Story",
+    title: "Rerunnr - Your Comeback Story",
     description: "Ready to start or restart your running journey? Rerunnr creates personalized training plans that adapt to your goals and experience. Join the waitlist for early access!",
     subscribeForm: "https://assets.mailerlite.com/jsonp/1351393/forms/147245434034718025/subscribe",
 
@@ -60,14 +60,18 @@ const config = {
         ],
 
         price: {
-            description: "Be among the first to experience Rerunnr. Early supporters will receive exclusive founding member benefits!",
-            price: "TBA",
+            description: "Be among the first to experience Rerunnr. Early supporters get exclusive founding member benefits!",
+            price: "$10",
+            earlyBirdPrice: "$5",
+            earlyBirdTotal: 50,
+            earlyBirdRemaining: 39,
             advantages: [
                 'Personalized training plans',
                 'Smart plan adjustments based on your progress',
                 'Access to beginner-friendly to advanced programs',
                 'Marathon training capabilities',
-                'Progress tracking and analytics'
+                'Progress tracking and analytics',
+                'Lifetime early adopter status'
             ]
         },
 
