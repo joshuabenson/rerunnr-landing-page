@@ -68,11 +68,10 @@ const config = {
             advantages: [
                 'Lock in a lifetime early bird price',
                 'Projected launch May 2025',
+                'Members can ask Coach Josh questions if they need help',
                 'Personalized training plans',
-                'Smart plan adjustments based on your progress',
+                'Smart plan adapts based on your progress',
                 'Access to beginner-friendly or advanced programs',
-                'Marathon training capabilities',
-                'Progress tracking and analytics',
                 'Early adopters get access to beta features early through Rerunnr Labs '
             ]
         },
