@@ -12,25 +12,27 @@ const config = {
         title: "re-start your running journey with rerunnr",
         markOfTitle: "rerunnr",
         description: `Whether you're lacing up for the first time or making a comeback, 
-        rerunnr is your personal coach for your return to running. Get customized training plans that adapt 
-        to your circumstances. Injury, illness, or just had a long break? We've got you.`,
+        rerunnr is your personal guide for your return to running. Get customized training plans. Turn solo training social with suggestions for local run groups based on the time and day of your workouts (currently available in Austin, TX)`,
 
         about: [
             {
                 id: 1,
-                emoji: "🏃",
-                title: "Personalized Plans",
-                description: "Every runner's journey is unique. Rerunnr creates custom training plans that match your current fitness level, schedule, and running goals."
+                // emoji: "👥",
+                icon: "target", // or "chart-line" or "clipboard-check",
+                title: "Run With New Friends",
+                description: "Turn solo runs social with local run groups. Based on your daily training schedule, we'll suggest free group options that match that day's workout. No other training app connects plans to real running communities like this."
             },
             {
                 id: 2,
-                emoji: "📈",
-                title: "Progressive Training",
-                description: "Our smart algorithm gradually increases your distance and intensity, ensuring safe and sustainable progress while preventing burnout and injury."
+                // emoji: "🏃",
+                icon: "users", // or "group" or "community",
+                title: "Personalized Plans",
+                description: "Every runner's journey is unique. Rerunnr creates custom training plans that match your current fitness level, schedule, and running goals. Injury, illness, or just had a long break? We've got you."
             },
             {
                 id: 3,
-                emoji: "🎯",
+                // emoji: "🎯",
+                icon: "trophy", // or "flag" or "medal"
                 title: "Goal-Focused",
                 description: "Whether you're aiming for your first 5K or training for a marathon, Rerunnr adapts your plan to help you reach your running goals."
             }
