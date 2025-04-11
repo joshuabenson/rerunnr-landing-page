@@ -12,7 +12,7 @@ const config = {
         title: "re-start your running journey with rerunnr",
         markOfTitle: "rerunnr",
         description: `Whether you're lacing up for the first time or making a comeback, 
-        rerunnr is your personal guide for your return to running. Get customized training plans. Turn solo training social with suggestions for local run groups based on the time and day of your workouts (currently available in Austin, TX)`,
+        rerunnr is your run coach for your return to running. Turn solo training social with suggestions for local run groups based on the time and day of your workouts (currently available in Austin, TX)`,
 
         about: [
             {
